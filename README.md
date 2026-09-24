@@ -1,2 +1,2 @@
-# Deep-Learning-with-PyTorch
-Personal implementations and projects from the 'Deep Learning with PyTorch' book, transitioning from TensorFlow/Keras to the PyTorch ecosystem.
+# Deep-Learning-with-PyThorch
+Personal implementations and projects from the 'Deep Learning with PyThorch' book, transitioning from TensorFlow/Keras to the PyThorch ecosystem.
